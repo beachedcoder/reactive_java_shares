@@ -7,3 +7,7 @@
 
 
   - [Class Share document](https://bit.ly/3xHEuHt)
+  - [Reactive Manifesto](https://www.reactivemanifesto.org/)
+  - [Reactive Streams @ Github](https://github.com/reactive-streams/reactive-streams-jvm)
+
+  - [Project Reactor Projet Docs](https://projectreactor.io/docs)
