@@ -16,3 +16,21 @@
 ## Tools for activities
   - [Postman api testing tool](https://www.postman.com/downloads/)
   - 
+## Activity Guides for class
+  - [Activity 2.2](https://docs.google.com/document/d/18syVw_6QBOazXTYlouWgNTlwzUJSF9Uhdc4cnpxQVZ4/edit?usp=sharing)
+  - Activity 2.3
+  - Activity 4.1
+  - Activity 4.2
+  - Activity 4.3
+  - Activity 4.4
+  - Activity 5.1
+  - Activity 5.2
+  - Activity 5.3
+  - Activity 6.1
+  - Activity 6.2
+  - Activity 6.3
+  - Activity 6.4
+  - Activity 7.1
+  - Activity 7.2
+  - Activity 7.3
+  - Activity 7.4
