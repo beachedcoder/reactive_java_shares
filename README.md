@@ -19,7 +19,7 @@
 ## Activity Guides for class
   - [Activity 2.2](https://docs.google.com/document/d/18syVw_6QBOazXTYlouWgNTlwzUJSF9Uhdc4cnpxQVZ4/edit?usp=sharing)
   - [Activity 2.3](https://docs.google.com/document/d/1vSR6RVKGei0VJBiyjcK7Z0_m00S5mQls0wKLz758Gps/edit?usp=sharing)
-  - Activity 4.1
+  - [Activity 4.1](https://docs.google.com/document/d/15CrmqLYz7B38kLY_DR-M3S2KHm1q_mizsQHGjg62lYU/edit?usp=sharing)
   - Activity 4.2
   - Activity 4.3
   - Activity 4.4
