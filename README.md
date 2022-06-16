@@ -4,6 +4,7 @@
   - [slide deck for this week](https://courses.roitraining.com/474tpb0613.zip)
 
   - [Virtual machines](https://rvc.roitraining.com/)
+  - [Class Demo Code](https://github.com/beachedcoder/2022_6_reactive_web_demo.git)
 
 
   - [Class Share document](https://bit.ly/3xHEuHt)
