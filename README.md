@@ -29,7 +29,7 @@
   - [Activity 5.1](https://docs.google.com/document/d/1IV94eJzsj6WihOCpoZPcHVy2y5YQWb1GYDjiaQZhidA/edit?usp=sharing)
   - [Activity 5.2](https://docs.google.com/document/d/1Z6fz-lXus8YevviuwwpNRW7FHcULah4WkJQ37dcoLh4/edit?usp=sharing)
   - [Activity 5.3](https://docs.google.com/document/d/1iDkwTn81hHId60rTEm4p_jIQN5mVoJTD4EHlz5vEzbc/edit?usp=sharing)
-  - Activity 6.1
+  - [Activity 6.1](https://docs.google.com/document/d/1UpfWcqZmXQgdsPfx1Qh2BFvEzxH1h9__BO4KzklEYIs/edit?usp=sharing)
   - Activity 6.2
   - Activity 6.3
   - Activity 6.4
