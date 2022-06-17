@@ -5,13 +5,12 @@
 
   - [Virtual machines](https://rvc.roitraining.com/)
   - [Class Demo Code](https://github.com/beachedcoder/2022_6_reactive_web_demo.git)
-
-
   - [Class Share document](https://bit.ly/3xHEuHt)
   - [Reactive Manifesto](https://www.reactivemanifesto.org/)
   - [Reactive Streams @ Github](https://github.com/reactive-streams/reactive-streams-jvm)
   - [Reactor Github docs](https://github.com/reactor)
   - [Project Reactor Projet Docs](https://projectreactor.io/docs)
+  - [Data Mocking Site](https://mockaroo.com/)
 
 
 ## Tools for activities
@@ -24,8 +23,8 @@
   - [Activity 4.2](https://docs.google.com/document/d/12QCRmcaoO9iL56vkWUKGIBJOdIqZJUzk2FLfEr4uZ0Q/edit?usp=sharing)
   - [Activity 4.3](https://docs.google.com/document/d/1-CmXoELpukVfuNI7GulQHAh0wWXSCWYrYk9ytCMZLoA/edit?usp=sharing)
   - [Activity 4.4](https://docs.google.com/document/d/1IA9rdPcAqy7_tpV5WJqZIubLaDn-jZERjOKDu2robU0/edit?usp=sharing)
-  - Activity 5.1
-  - Activity 5.2
+  - [Activity 5.1](https://docs.google.com/document/d/1IV94eJzsj6WihOCpoZPcHVy2y5YQWb1GYDjiaQZhidA/edit?usp=sharing)
+  - [Activity 5.2](https://docs.google.com/document/d/1Z6fz-lXus8YevviuwwpNRW7FHcULah4WkJQ37dcoLh4/edit?usp=sharing)
   - Activity 5.3
   - Activity 6.1
   - Activity 6.2
