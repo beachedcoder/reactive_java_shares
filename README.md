@@ -32,7 +32,7 @@
   - [Activity 5.3](https://docs.google.com/document/d/1iDkwTn81hHId60rTEm4p_jIQN5mVoJTD4EHlz5vEzbc/edit?usp=sharing)
   - [Activity 6.1](https://docs.google.com/document/d/1UpfWcqZmXQgdsPfx1Qh2BFvEzxH1h9__BO4KzklEYIs/edit?usp=sharing)
   - [Activity 6.2](https://docs.google.com/document/d/10m_AL2L1HFtJp-BHymYX38A9ezRjdl17ZeteE4akK-I/edit?usp=sharing)
-  - Activity 6.3
+  - [Activity 6.3](https://docs.google.com/document/d/1vMuWRdYYevb-q0irjx3f4gBTJtHNHSdxbq41fAyGrko/edit?usp=sharing)
   - Activity 6.4
   - Activity 7.1
   - Activity 7.2
