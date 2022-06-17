@@ -1,8 +1,8 @@
 # reactive_java_shares
 
 ## Shared Links
-  - [slide deck for this week](https://courses.roitraining.com/474tpb0613.zip)
 
+  - [slide deck for this week](https://courses.roitraining.com/474tpb0613.zip)
   - [Virtual machines](https://rvc.roitraining.com/)
   - [Class Demo Code](https://github.com/beachedcoder/2022_6_reactive_web_demo.git)
   - [Class Share document](https://bit.ly/3xHEuHt)
@@ -10,13 +10,16 @@
   - [Reactive Streams @ Github](https://github.com/reactive-streams/reactive-streams-jvm)
   - [Reactor Github docs](https://github.com/reactor)
   - [Project Reactor Projet Docs](https://projectreactor.io/docs)
-  - [Data Mocking Site](https://mockaroo.com/)
+  
 
 
 ## Tools for activities
+
   - [Postman api testing tool](https://www.postman.com/downloads/)
-  - 
+  - [Data Mocking Site](https://mockaroo.com/)
+  
 ## Activity Guides for class
+
   - [Activity 2.2](https://docs.google.com/document/d/18syVw_6QBOazXTYlouWgNTlwzUJSF9Uhdc4cnpxQVZ4/edit?usp=sharing)
   - [Activity 2.3](https://docs.google.com/document/d/1vSR6RVKGei0VJBiyjcK7Z0_m00S5mQls0wKLz758Gps/edit?usp=sharing)
   - [Activity 4.1](https://docs.google.com/document/d/15CrmqLYz7B38kLY_DR-M3S2KHm1q_mizsQHGjg62lYU/edit?usp=sharing)
